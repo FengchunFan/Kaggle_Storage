@@ -1,6 +1,6 @@
 # 📂 Kaggle Competitions Code Repository
 
-This repository contains my code, and notebooks for various Kaggle competitions.
+This repository contains my code, and notebooks for various [Kaggle](https://www.kaggle.com) competitions.
 
 ## 🚧 Disclaimer
 
